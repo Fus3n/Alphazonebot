@@ -5,6 +5,8 @@ import csv
 import itertools
 import json
 
+#AlphaZone bot V-1.0
+#Author:Fus3n
 
 class BOT:
     def __init__(self,name):
